@@ -1,2 +1,2 @@
-# Smart_aintenance 
+# Smart_Maintenance 
  Predictive motor's fault
